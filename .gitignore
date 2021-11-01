@@ -35,5 +35,5 @@ sysinfo.txt
 *.unitypackage
 
 # Logs
-/Logs
+Logs/
 *.log
